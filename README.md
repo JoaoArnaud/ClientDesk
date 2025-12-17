@@ -1,4 +1,4 @@
-# Advanced CRM API
+# ClientDesk
 
 > Multi-tenant CRM backend (ClientDesk) with a Next.js dashboard powered by Node.js, TypeScript, Express, Prisma, and Material UI.
 
